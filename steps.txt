@@ -1,0 +1,2 @@
+1. created our model to define what our data looks like wnad where it is storted in our database
+2. then we created our route handlers/controllers the functions our routes use when people send requests
